@@ -9,3 +9,15 @@ p{
 body{
     background-color: #2A2F4F;
 }
+
+.top-panel{
+    background-color: #917FB3;
+}
+
+.mid-panel{
+    background-color: #F9D949;
+}
+
+.bottom-panel{
+    background-color: #F45050;
+}
