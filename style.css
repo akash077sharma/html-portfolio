@@ -1,3 +1,7 @@
+html{
+    align-content: center;
+}
+
 h1{
     color: green;
 }
@@ -17,8 +21,11 @@ body{
 .mid-panel{
     background-color: #F9D949;
     padding: 20px;
+    padding-left: 150px;
+    text-align: center;
 }
 
 .bottom-panel{
     background-color: #F45050;
 }
+
